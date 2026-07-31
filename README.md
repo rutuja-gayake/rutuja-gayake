@@ -8,13 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rutuja-gayake/rutuja-gayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/rutuja-gayake/rutuja-gayake/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science and Engineering @ Maharashtra Institute of Technology, Chhatrapati Sambhajinagar (2024 – 2027)
@@ -97,6 +90,13 @@ A scalable URL shortening platform with instant redirection and persistent cloud
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutuja-gayake&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rutuja-gayake/rutuja-gayake/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/rutuja-gayake/rutuja-gayake/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
